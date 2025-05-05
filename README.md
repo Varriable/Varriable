@@ -1,5 +1,3 @@
-![Banner](https://your-custom-banner-url.com/banner.png)
-
 # Hi there 👋 I'm Varriable
 
 🎓 Strathmore University Student | 💻 Aspiring Tech Entrepreneur | 🤖 AI Enthusiast
