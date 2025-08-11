@@ -1,91 +1,47 @@
-# Hi there 👋 I'm Varriable
-
-🎓 Strathmore University Student | 💻 Aspiring Tech Entrepreneur | 🤖 AI Enthusiast
-
----
-
-### 🧠 About Me
-
-- 🔭 Currently building: `file_ai` – an AI-powered file analysis tool using Django & LM Studio
-- 🌱 Learning: Full-stack development, deployment, and AI integration
-- 💡 Dreaming big: To run my own tech company and have a successful side business
-- 🕌 Giving back: Volunteering at Jamia Mosque (community service & tech support)
-
----
-
-### ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005c84?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Varriable&fontAlign=50&fontAlignY=35&desc=Calm%20software.%20Web%20+%20AI.&descAlign=50&descAlignY=65&color=0:1f2937,100:0b1220&fontColor=ffffff" alt="Varriable banner" />
+  
+  <!-- Typing headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=600&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Ship%20small%2C%20iterate%20fast;Automate%20the%20boring%20parts;AI-native%20flows%20when%20they%20earn%20their%20keep" alt="Typing headline" />
+  
+  <br/><br/>
+  
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/ramadhan-abdilatif-761318295">
+    <img src="https://img.shields.io/badge/LinkedIn-Varriable-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Shipping-Calm%20Software-22C55E?style=for-the-badge" alt="Shipping"/>
+  <img src="https://img.shields.io/badge/Pragmatic-By%20Default-64748B?style=for-the-badge" alt="Pragmatic by default"/>
+  <img src="https://img.shields.io/badge/Privacy-First-334155?style=for-the-badge" alt="Privacy first"/>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 What I Build
+- **End-to-end products** that work, then get out of the way.  
+- **Small surfaces**, strong defaults, clear interfaces.  
+- **Automation** that erases busywork.
 
-![Varriable's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varriable&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varriable&layout=compact&theme=gruvbox)
+## ⚙ How I Work
+- **Outcome-first**. Cut scope. Tight feedback loops.  
+- **Reliability + Privacy** by default. Observability built-in.  
+- **Ship thin slices** → document edges → iterate.
 
----
-
-### 🚀 Featured Project
-
-**📂 [`file_ai`](https://github.com/Varriable/file_ai)**  
-AI-powered file analyzer with summarization, user authentication, and Bootstrap UI – powered by Django & LM Studio.
-
----
-
-### 💬 Ask Me About
-
-- Building AI-powered web applications
-- Integrating LM Studio with Django
-- Full-stack development best practices
+## 📌 Now
+- Personal life dashboard as an **ops surface**.  
+- AI-native flows for **files, notes, and repetitive tasks**.  
+- Consolidating **utilities into reusable components**.
 
 ---
 
-### 📚 Currently Learning
-
-- Advanced Django techniques
-- Deployment strategies for web applications
-- AI model integration and optimization
-
----
-
-### 🎯 Goals for 2025
-
-- Launch `file_ai` as a SaaS product
-- Contribute to open-source AI projects
-- Start a tech-focused side business
+## 🧰 Toolbox (When It Adds Leverage)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,ts,html,css,c,kotlin,docker,git&perline=11" alt="Tools I use" />
+</p>
 
 ---
 
-### 🧩 Fun Facts
-
-- I'm passionate about blending technology with creativity
-- I enjoy volunteering and giving back to the community
-- I'm always eager to learn and take on new challenges
-
----
-
-### ✉️ Connect With Me
-
-- LinkedIn: [Ramadhan Abdilatif](https://www.linkedin.com/in/ramadhan-abdilatif-761318295)
-
----
-
-### 📖 Quran Verse
-
-> "Say, 'Are those who know equal to those who do not know?'"  
-> — Surah Az-Zumar (39:9)
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=Varriable&style=flat-square&color=blue)
-
-<!-- You can add animated text like this:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=35D1B3&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I+build+cool+things+with+code.)](https://git.io/typing-svg)
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=2&section=footer" alt="divider" />
+</p>
