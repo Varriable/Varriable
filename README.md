@@ -58,7 +58,7 @@ projects/
 └── Built with calm software principles
 
 $ uptime
-Building useful tools since [your year]. Still shipping.
+Building useful tools since 2025. Still shipping.
 
 $ exit
 Thanks for stopping by. Check out the repos 👇
